@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Couplify</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">About</string>
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Email</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="go">GO</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="next">NEXT</string>
+    <string name="register">REGISTER</string>
+
+    <string name="hint_username">Enter a new username</string>
+    <string name="hint_email_reset">Enter your email</string>
+    <string name="enter_group_name">Enter group name</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-9572833788009355~6729860153</string>
+    <string name="view_stepcount">Average StepCount</string>
+    <string name="SensorDataTitle">Couplifier Engine</string>
+    <string name="sensor_data_description">The coplifier Engine will suggest you the exact matching partner using these data. Please do not restrict access to your mobile phone sensors and services.</string>
+    <string name="togle1">Location</string>
+    <string name="togle2">Wifi</string>
+    <string name="togle3">Telephony</string>
+
+</resources>

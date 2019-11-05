@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "362760006761",
+    "firebase_url": "https://couplify-19df6.firebaseio.com",
+    "project_id": "couplify-19df6",
+    "storage_bucket": "couplify-19df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362760006761:android:3d3211a0df757965",
+        "android_client_info": {
+          "package_name": "com.hieuapp.couplify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362760006761-90fdcpd5e64ov527as3kuhelhgerfnmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hieuapp.couplify",
+            "certificate_hash": "d3ba8cae89e939865827de2b2ca727966176e7ed"
+          }
+        },
+        {
+          "client_id": "362760006761-8i1mkpsve7k49aa62ps8f6orm6ufn2ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo1SYOXryX7fKlfsw5udR0IoKWCSh8URQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362760006761-8i1mkpsve7k49aa62ps8f6orm6ufn2ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9572833788009355~6729860153"
+    }
+  ],
+  "configuration_version": "1"
+}
